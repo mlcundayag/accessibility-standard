@@ -3,9 +3,9 @@
 
 ## Table of Contents
 
-* [Description] (#description)
-* [Screenshot] (#screenshot)
-* [Links] (#links)
+* [Description](#description)
+* [Screenshot](#screenshot)
+* [Links](#links)
 
 ## Description
 This project is about code refactoring. This means that I have to restructure the coding without affecting the original intended functions of the code. In this challenge, I am to assume the role of a junior developer to refactor the code of a marketing agency to make it more accessible. 
@@ -20,16 +20,16 @@ The major code refactor that I did are as follows:
 
 ## Screenshot
 - HTML
-![HTML Screenshot] (./assets/images/screenshots/html-screenshot-1.png)
-![HTML Screenshot] (./assets/images/screenshots/html-screenshot-2.png)
+![HTML Screenshot](./assets/images/screenshots/html-screenshot-1.png)
+![HTML Screenshot](./assets/images/screenshots/html-screenshot-2.png)
 - CSS
-![CSS Screenshot] (./assets/images/screenshots/css-screenshot-1.png)
-![CSS Screenshot] (./assets/images/screenshots/css-screenshot-2.png)
-![CSS Screenshot] (./assets/images/screenshots/css-screenshot-3.png)
+![CSS Screenshot](./assets/images/screenshots/css-screenshot-1.png)
+![CSS Screenshot](./assets/images/screenshots/css-screenshot-2.png)
+![CSS Screenshot](./assets/images/screenshots/css-screenshot-3.png)
 - Website
-![Website Screenshot] (./assets/images/screenshots/website-screenshot-1.png)
-![Website Screenshot] (./assets/images/screenshots/website-screenshot-2.png)
-![Website Screenshot] (./assets/images/screenshots/website-screenshot-3.png)
+![Website Screenshot](./assets/images/screenshots/website-screenshot-1.png)
+![Website Screenshot](./assets/images/screenshots/website-screenshot-2.png)
+![Website Screenshot](./assets/images/screenshots/website-screenshot-3.png)
 
 ## Links
 1. [Website](https://mlcundayag.github.io/horieson-social-solution-services/)
